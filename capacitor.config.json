@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pruebas-mercadona",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
