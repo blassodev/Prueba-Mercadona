@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+        "nombre": "Macarrones",
+        "descripcion": "Paquete 500g",
+        "img": "https://a0.soysuper.com/818fd2c4af4342e4f9fa69b69de6d2b6.1500.0.0.0.wmark.2ace2c7d.jpg",
+        "precio": "0.85€"
+    },
+  {
+    "id": 2,
+    "nombre": "Spaghetti Fino",
+    "descripcion": "Paquete 500g",
+    "img": "https://1.bp.blogspot.com/-wVYZn3sf550/XYoaZzewczI/AAAAAAAAM8E/5l5qK2V9O8YLK9txTtn-yL0NaNHhnaIDgCKgBGAsYHg/s1600/spaghetti-fino-hacendado-mercadona-1.jpg",
+    "precio": "0.65€"
+  },
+  {
+    "id": 3,
+    "nombre": "Panettone",
+    "descripcion": "Caja 500g",
+    "img": "https://prod-mercadona.imgix.net/images/662efc734338ca8bc99f9958dba3f73a.jpg?fit=crop&h=600&w=600",
+    "precio": "2.70€"
+  }
+]

@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Editar producto</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="dismissModal()">Cerrar</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+  <form [formGroup]="editProductForm">
+    <ion-input formControlName="url" name="url" placeholder="URL de imagen"></ion-input>
+    <ion-input formControlName="nombre" name="nombre" placeholder="Nombre"></ion-input>
+    <ion-input formControlName="descripcion" name="descripcion" placeholder="Descripcion"></ion-input>
+    <ion-input formControlName="precio" name="precio" placeholder="Precio"></ion-input>
+    <div class="buttons">
+      <ion-button (click)="submit()">Editar</ion-button>
+    </div>
+  </form>
+</ion-content>
